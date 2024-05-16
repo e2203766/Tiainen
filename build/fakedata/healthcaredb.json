@@ -1,0 +1,67 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"class": "1",
+			"treatment": "Swedish Ukrainian speaking club",
+			"price": 0,
+			"description": "Swedish Ukrainian speaking club? tvery Wednesday at 17.00 and 18.00",
+			"icon": "https://nextlevel.kiev.ua/wp-content/uploads/2021/09/razgovornyj-klub-1024x713.png",
+			"service_img": "https://podrobnosti.ua/media/ckeditor_uploads/2016/09/20/sbx_jmg-fg0.jpg"
+		},
+		{
+			"id": 2,
+			"class": "animation",
+			"treatment": "Kids Event",
+			"price": 0,
+			"description": "Kids Event 7-15 years",
+			"icon": "https://cdn-icons-png.flaticon.com/512/5778/5778158.png",
+			"service_img": "https://onebeach.ru/files/TArticles/1/1/61/4.jpg"
+		},
+		{
+			"id": 3,
+			"class": "",
+			"treatment": "Woman Club",
+			"price": 0,
+			"description": "Weeklt events aimed at developing and support women",
+			"icon": "https://freelance.ru/img/portfolio/pics/00/20/91/2134427.jpg",
+			"service_img": "https://envybox.io/blog/wp-content/uploads/2017/08/pasted-image-0-1-8.png"
+		},
+		{
+			"id": 4,
+			"class": "",
+			"treatment": "Sport Club",
+			"price": 0,
+			"description": "Sport activities for different  ages and needs",
+			"icon": "https://cdn.icon-icons.com/icons2/2055/PNG/512/gym_icon_124498.png",
+			"service_img": "https://static.tildacdn.com/tild6666-3466-4261-a530-376430396461/obshtnost.jpg"
+		},
+		{
+			"id": 5,
+			"class": "",
+			"treatment": "Integration Events",
+			"price": 0,
+			"description": "",
+			"icon": "https://cdn-icons-png.flaticon.com/512/2470/2470661.png",
+			"service_img": "https://ubi-hall.com.ua/wp-content/uploads/2021/12/%D1%81%D0%BF%D0%B8%D0%BA%D0%B5%D1%80-900x520-ua.webp"
+		},
+		{
+			"id": 6,
+			"class": "",
+			"treatment": "Completed events, reporting",
+			"price": 0,
+			"description": "",
+			"icon": "https://cdn-icons-png.freepik.com/512/2558/2558944.png",
+			"service_img": "https://blog.ingate.ru/upload/medialibrary/4bf/11.png"
+		},
+		{
+			"id": 7,
+			"class": "",
+			"treatment": "Karaoke",
+			"price": 0,
+			"description": "",
+			"icon": "https://img.freepik.com/premium-vector/karaoke-icon-simple-element-from-celebration-collection-creative-karaoke-icon-for-web-design-templates-infographics-and-more_676904-1341.jpg",
+			"service_img": "https://static.eldorado.ru/promo/src/top-15-pesen-v-karaoke-2023/img/header.webp"
+		}
+	]
+}

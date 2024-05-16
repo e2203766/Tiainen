@@ -1,0 +1,58 @@
+{
+    "docs": [
+        {
+            "doc_id": 1,
+            "name": "training consultation",
+            "specialize": "Anna",
+            "doc_img": "https://cdn.iportal.ru/preview/news/articles/6ea04691715d0acc14b1d0d2e753af7f0767f617_1024.jpg"
+        },
+        {
+            "doc_id": 2,
+            "name":"womens support projects",
+            "specialize": "Nadya",
+            "doc_img": "n1.png"
+        },
+        {
+            "doc_id": 3,
+            "name": "teenage education and events",
+            "specialize": "Kostya",
+            "doc_img": "k1.jpeg"
+        },
+        {
+            "doc_id": 4,
+            "name": "Kelas support",
+            "specialize": "Galina",
+            "doc_img": "L1.jpg"
+        },
+        {
+            "doc_id": 5,
+            "name": "Speaking clubs",
+            "specialize": "Anna",
+            "doc_img": "L2.jpg"
+        },
+        {
+            "doc_id": 6,
+            "name": "meeting and adaptation of newly arrived people",
+            "specialize": "Sofya",
+            "doc_img": "L3.jpg"
+        },
+        {
+            "doc_id": 7,
+            "name": "integration into society",
+            "specialize": "Irina",
+            "doc_img": "L4.jpg"
+        },
+        {
+            "doc_id": 8,
+            "name": "PR manager and public relations",
+            "specialize": "Eygen",
+            "doc_img": "https://gl.ua/sites/default/files/styles/215x/public/2023-03/image_0.png?itok=M-vidjsH"
+        },
+        {
+            "doc_id": 9,
+            "name": "Health care and childs benefits",
+            "specialize": "Sergo",
+            "doc_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrc4q7QzOLm9Jd7_o3Mt4QLJaKIZv2s44IA&usqp=CAU"
+        }
+    ]
+}
